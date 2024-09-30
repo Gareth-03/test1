@@ -29,7 +29,7 @@ FlickScore is a movie and TV show tracking application designed to enhance the v
    - Receive real-time alerts for new releases and other important updates.
 
 7. **Multi-language Support**:
-   - Switch between multiple languages, including at least two South African languages.
+   - Switch between multiple languages, including English and Afrikaans.
 
 ---
 
@@ -39,7 +39,7 @@ To run the FlickScore app locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/FlickScore.git
+   git clone [https://github.com/yourusername/FlickScore.git](https://github.com/VCDN-2024/opsc7312-part-2-Devonation.git)
    ```
    
 2. **Open in Android Studio**:
@@ -117,6 +117,7 @@ A demonstration video showcasing the key features of the app can be found [here]
 - **Gamification**: Add achievement badges for users based on their movie-watching activity.
 - **Social Features**: Enable users to follow friends, compare ratings, and share recommendations.
 - **Expanded Recommendation Engine**: Leverage advanced algorithms to offer better movie suggestions based on user preferences.
+- **Add additional languanges**: Add more languages to help the app be accesable to more users.
 
 ---
 
