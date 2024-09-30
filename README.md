@@ -55,14 +55,7 @@ To run the FlickScore app locally, follow these steps:
 
 5. **Run the App**:
    - Connect an Android device or emulator and run the application.
-
----
-
-## Screenshots
-*(Include relevant screenshots of the UI, login screen, watchlist, and more)*
-
-![Uploading MainScreen.png…]()
-
+     
 ---
 
 ## Usage
