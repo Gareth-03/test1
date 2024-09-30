@@ -61,6 +61,8 @@ To run the FlickScore app locally, follow these steps:
 ## Screenshots
 *(Include relevant screenshots of the UI, login screen, watchlist, and more)*
 
+![Uploading MainScreen.png…]()
+
 ---
 
 ## Usage
